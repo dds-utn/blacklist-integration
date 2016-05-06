@@ -13,6 +13,6 @@ Use la siguiente dependencia:
 
 Use de la siguiente forma:
 
-```
+```java
 BlackListSystem system = new BlackListSystemImpl();
 ```
